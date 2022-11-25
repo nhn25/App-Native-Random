@@ -1,8 +1,8 @@
 Arguments: 
-  E:\ENZO\node.exe C:\Users\enzoe\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add react-native-screensç
+  E:\nhn\node.exe C:\Users\nhn\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add react-native-screensç
 
 PATH: 
-  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\ENZO\Git\cmd;E:\ENZO\;C:\Users\enzoe\AppData\Local\Microsoft\WindowsApps;;C:\Users\enzoe\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\enzoe\AppData\Roaming\npm
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\NHN\Git\cmd;E:\NHN\;C:\Users\NHN\AppData\Local\Microsoft\WindowsApps;;C:\Users\NHN\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\NHN\AppData\Roaming\npm
 
 Yarn version: 
   1.22.19
@@ -15,12 +15,12 @@ Platform:
 
 Trace: 
   Error: https://registry.yarnpkg.com/react-native-screensç: Bad Request
-      at params.callback [as _callback] (C:\Users\enzoe\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:66145:18)
-      at self.callback (C:\Users\enzoe\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:140890:22)
+      at params.callback [as _callback] (C:\Users\NHN\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:66145:18)
+      at self.callback (C:\Users\NHN\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:140890:22)
       at Request.emit (node:events:513:28)
-      at Request.<anonymous> (C:\Users\enzoe\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141862:10)
+      at Request.<anonymous> (C:\Users\NHN\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141862:10)
       at Request.emit (node:events:513:28)
-      at IncomingMessage.<anonymous> (C:\Users\enzoe\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141784:12)
+      at IncomingMessage.<anonymous> (C:\Users\NHN\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141784:12)
       at Object.onceWrapper (node:events:627:28)
       at IncomingMessage.emit (node:events:525:35)
       at endReadableNT (node:internal/streams/readable:1359:12)
